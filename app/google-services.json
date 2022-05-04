@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76420525724",
+    "project_id": "close-connect-e9c5f",
+    "storage_bucket": "close-connect-e9c5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76420525724:android:f8ba4470ef4bb121198759",
+        "android_client_info": {
+          "package_name": "com.example.closeconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76420525724-dl6889lro767lsgbk137sq94en109gdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrmZknx5AKAiG1xTlDoxyj_Oq4k96VZHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76420525724-dl6889lro767lsgbk137sq94en109gdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
