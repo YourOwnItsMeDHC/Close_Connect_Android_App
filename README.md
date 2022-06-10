@@ -2,6 +2,10 @@
 
 <h1>Close Connect</h1>
 
+*Close Connect* is an social media application, using which user can come *"closer"* irrespective of their location and communicate, share their talent, etc. and get *"connect"* to each other.
+
+CRUD Operation ✅
+
 `Have a look on it 👇`
 
 
