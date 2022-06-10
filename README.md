@@ -15,9 +15,15 @@ CRUD Operation ✅
 
 https://user-images.githubusercontent.com/95961231/173102614-fafc6e8b-29d1-4ed2-877f-bec6e970ead8.mp4
 
-<h3>  Firebase Linked : </h3>
+<h1><i> Screenshots : </i></h1>
+
+<h3>  Firebase Integration : </h3>
 
 ![Screenshot (395)](https://user-images.githubusercontent.com/95961231/173057012-26c163e9-9522-4351-8776-625c7e97b77a.png)
+
+<h3> Shimmering Effect (Fetching Data From Internet) : </h3>
+
+![Screenshot (397)](https://user-images.githubusercontent.com/95961231/173144874-e2145c22-ec4e-460f-bcf7-162bb64f0311.png)
 
 
 <h3> Login Page :   </h3>
@@ -60,3 +66,4 @@ https://user-images.githubusercontent.com/95961231/173102614-fafc6e8b-29d1-4ed2-
 <h3> My Profile Page : </h3>
 
 ![Screenshot (393)](https://user-images.githubusercontent.com/95961231/173056563-5f22bfaf-af04-4264-a6ae-4178b0eb5f9f.png)
+
