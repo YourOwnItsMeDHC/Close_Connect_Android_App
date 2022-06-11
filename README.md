@@ -8,9 +8,6 @@ CRUD Operation ✅
 
 `Have a look on it 👇`
 
-<a href="https://github.com/YourOwnItsMeDHC/Close_Connect_Android_App/tree/master/Apk" target="_blank"><h2> Download Link </h2></a>
-
-
 [<h2> Download Link </h2>](https://github.com/YourOwnItsMeDHC/Close_Connect_Android_App/tree/master/Apk)
 
 [<h2> Video Demonstration : </h2>](https://youtu.be/Kp3f0e_FLME)
