@@ -8,7 +8,7 @@ CRUD Operation ✅
 
 `Have a look on it 👇`
 
-[<h2> Download Link </h2>](https://github.com/YourOwnItsMeDHC/Close_Connect_Android_App/blob/master/Apk/app-debug.apk)
+[<h2> Download Link </h2>](https://drive.google.com/drive/u/0/folders/1JNZ0HP_o4Lv5CVt1Ar0o-CBNQUUkOn6h)
 
 [<h2> Video Demonstration : </h2>](https://youtu.be/Kp3f0e_FLME)
 
