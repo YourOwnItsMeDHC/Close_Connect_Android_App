@@ -14,6 +14,11 @@ CRUD Operation ✅
 
 https://user-images.githubusercontent.com/95961231/173102614-fafc6e8b-29d1-4ed2-877f-bec6e970ead8.mp4
 
+<h2> 1 Minute Video : </h2>
+
+https://user-images.githubusercontent.com/95961231/175767669-8762e554-b2e9-4c0a-aaaf-8b37ab63caf8.mp4
+
+
 <h1><i> Screenshots : </i></h1>
 
 <h3>  Firebase Integration : </h3>
@@ -65,4 +70,8 @@ https://user-images.githubusercontent.com/95961231/173102614-fafc6e8b-29d1-4ed2-
 <h3> My Profile Page : </h3>
 
 ![Screenshot (393)](https://user-images.githubusercontent.com/95961231/173056563-5f22bfaf-af04-4264-a6ae-4178b0eb5f9f.png)
+
+
+
+
 
